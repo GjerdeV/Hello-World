@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Threat Model DAT250",
+    "owner": "Martin Gjerde"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "DiagramI",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
